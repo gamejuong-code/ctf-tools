@@ -26,7 +26,7 @@
 - x64dbg
 
 ## Blog
-- 티스토리 링크
+- https://gamejuong1.tistory.com/
 
 ## Goal
 리버싱 및 정보보안 분야 공부 내용을 꾸준히 기록하고 있습니다.
