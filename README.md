@@ -2,7 +2,9 @@
 
 정보보안 및 리버싱 공부 내용을 정리한 저장소입니다.
 
-## Contents
+---
+
+## 📚 Contents
 
 ### Write-ups
 - DreamHack
@@ -19,14 +21,20 @@
 - Linux
 - Basic Reversing
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 - Python
 - Linux
 - Git
 - x64dbg
 
-## Blog
+---
+
+## 🌐 Blog
 - https://gamejuong1.tistory.com/
 
-## Goal
+---
+
+## 🎯 Goal
 리버싱 및 정보보안 분야 공부 내용을 꾸준히 기록하고 있습니다.
